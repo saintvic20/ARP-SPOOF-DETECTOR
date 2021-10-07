@@ -1,0 +1,10 @@
+Linux:
+Go to a directory of choice.
+Run the following command:
+sudo git clone https://github.com/saintvic20/ARP-SPOOF-DETECTOR
+Look at READ.md file for more information on how to run after installed.
+
+Windows: 
+Easiest way is to download code as zip and extract to a folder.
+Another way is if you have git installed, just run the following command in a specified folder:
+git clone https://github.com/saintvic20/ARP-SPOOF-DETECTOR
